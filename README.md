@@ -7,7 +7,7 @@
 3. Find `Default Formatter` in Text Editor and then select "Prettier-Code formatter".
 4. Done!
 
-![](src/Assets/VC-DefaultFormatter.png)
+![](https://github.com/hirokoymj/hiroko-frontend/blob/master/src/Assets/VC-DefaultFormatter.png)
 
 ### GraphQL
 
