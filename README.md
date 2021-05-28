@@ -1,4 +1,4 @@
-# visual-studio-code
+# Visual Studio Code Extensions
 
 ### Prettier - Code formatter
 
